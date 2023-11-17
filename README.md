@@ -12,7 +12,7 @@
 
 ## Hình ảnh mô tả
 <img width="150px" src="/demo/demo_1.PNG" />
-<img width="150px" src="/demo/demo_2.png" />
-<img width="150px" src="/demo/demo_3.png" />
+<img width="150px" src="/demo/demo_2.PNG" />
+<img width="150px" src="/demo/demo_3.PNG" />
 
 # Goodluck!
