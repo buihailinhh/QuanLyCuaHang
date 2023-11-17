@@ -50,7 +50,7 @@ public class QuanLyHangHoa {
 			case 3:update();break;
 			case 4:remove();break;
 			case 5:sort();break;
-			case 0:break;
+			case 0:return;
 			default: System.out.println("Lua chon khong hop le");
 			}
 		
